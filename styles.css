@@ -1,0 +1,25 @@
+/* All Content */
+
+body {
+    margin: 0 auto;
+}
+h1 {
+    background-color: lightskyblue;
+    color:aliceblue;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Home Page */
+
+.link-container {
+    width: 250px;
+    margin: 25px auto;
+}
+.link-container ul li {
+    padding-bottom: 10px;
+}
+
+/* Recipe Pages */
+
