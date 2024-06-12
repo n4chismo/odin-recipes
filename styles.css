@@ -22,7 +22,14 @@ h1 {
 }
 
 /* All Recipe Pages */
-
+h2 {
+    padding-bottom: 15px;
+    border-bottom: solid lightskyblue 5px;
+}
+h3 {
+    padding-bottom: 15px;
+    border-bottom: solid lightskyblue 3px;
+}
 .content-container {
     width: 500px;
     margin: 25px auto;
