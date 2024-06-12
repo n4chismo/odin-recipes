@@ -23,3 +23,12 @@ h1 {
 
 /* All Recipe Pages */
 
+.content-container {
+    width: 500px;
+    margin: 25px auto;
+}
+.intro-section img {
+    display: block;
+    width: 375px;
+    margin: auto;
+}
