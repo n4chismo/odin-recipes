@@ -32,3 +32,13 @@ h1 {
     width: 375px;
     margin: auto;
 }
+li{
+    padding-bottom: 20px;
+}
+p, .steps-section li {
+    line-height: 1.5;
+}
+
+ol li:last-of-type, ul li:last-of-type {
+    line-height: 1.2;
+}
